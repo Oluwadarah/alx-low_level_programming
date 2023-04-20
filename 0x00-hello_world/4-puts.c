@@ -1,9 +1,7 @@
-#!/bin/bash
 #include <stdio.h>
-/*
- * .main - Entry Point
- *
- * Return: Always 0 (Success)
+/**
+ *main - Entry point
+ *return: Always 0 (success)
  */
 int main(void)
 {
