@@ -26,5 +26,5 @@ int main(void)
 	++i;
 	}
 	printf("\n");
-	return (o);
+	return (0);
 }
