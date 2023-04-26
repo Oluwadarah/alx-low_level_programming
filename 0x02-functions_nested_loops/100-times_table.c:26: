@@ -1,0 +1,9 @@
+_table.c:35: ERROR: trailing whitespace
+100-times_table.c:44: ERROR: trailing whitespace
+100-times_table.c:52: WARNING: More than 40 lines in a function
+100-times_table.c:53: WARNING: More than 40 lines in a function
+100-times_table.c:54: WARNING: More than 40 lines in a function
+100-times_table.c:55: WARNING: More than 40 lines in a function
+100-times_table.c:56: WARNING: More than 40 lines in a function
+total: 3 errors, 5 warnings, 58 lines checked
+100-times_table.c:9: warning: no description found 
