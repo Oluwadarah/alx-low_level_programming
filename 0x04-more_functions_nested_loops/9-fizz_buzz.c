@@ -16,10 +16,10 @@ int main(void)
 	{
 		if (i == 100)
 		printf("%s ", b);
+		else if ((i % 3 == 0 && i % 5 == 0))
+                printf("%s ", ab);
 		else if (i % 3 == 0)
 		printf("%s ", a);
-		else if ((i % 3 == 0 && i % 5 == 0))
-		printf("%s ", ab);
 		else if (i % 5 == 0)
 		printf("%s ", b);
 		else
