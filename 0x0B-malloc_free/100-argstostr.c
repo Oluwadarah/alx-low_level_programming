@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * argstostr - concatenates all the program arguments 
+ * argstostr - concatenates all the program arguments
  * @ac: int input
  * @av: double pointer array
  * Return: 0
