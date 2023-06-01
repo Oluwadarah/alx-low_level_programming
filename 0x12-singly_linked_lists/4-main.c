@@ -23,27 +23,3 @@ int main(void)
     head = NULL;
     return (0);
 }
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"4-main.c" [New File]                                         0,0-1         All
-
